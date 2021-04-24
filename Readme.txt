@@ -1,0 +1,1 @@
+This program just needs to be passed a file with 2 string with the < command to run. This project contains an example file and the object required for the project along with the main file which can be compiled with the makefile. 
